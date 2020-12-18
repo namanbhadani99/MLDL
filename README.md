@@ -1,3 +1,3 @@
-# MLDL
-I did this project during my learning phase of machine learning and deep learning.
+# DL
+I did this project during my learning phase of neural networks.
 I used Google Colab as a tool and python programming language.
